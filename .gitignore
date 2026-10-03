@@ -46,10 +46,10 @@ models/
 checkpoints/
 wandb/
 mlruns/
-*.pt
-*.pth
+.pt
+.pth
 *.onnx
-*.safetensors
+.safetensors
 *.bin
 *.h5
 .gstack/
